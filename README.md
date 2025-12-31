@@ -55,14 +55,15 @@ This chart shows female graduation percentages in all STEM fields across all cou
 ### 3️⃣ Enrollment vs Graduation Comparison
 This chart compares average female enrollment vs. graduation percentages for each country.
 
-![Enrollment vs Graduation]![alt text](../plots/03_enrollment_vs_graduation.png)
+![Enrollment vs Graduation]https://github.com/mozhdamohammadi58-lang/women_stem_data_analysis/blob/main/03_enrollment_vs_graduation.png
+
 
 ---
 
 ### 4️⃣ Gender Gap Index by Country
 This chart visualizes the gender gap index for each country, highlighting areas of inequality in STEM participation.
 
-![Gender Gap Index]https://github.com/mozhdamohammadi58-lang/women_stem_data_analysis/blob/main/03_enrollment_vs_graduation.png
+![Gender Gap Index]https://github.com/mozhdamohammadi58-lang/women_stem_data_analysis/blob/main/04_gender_gap_index.png
 
 ---
 
