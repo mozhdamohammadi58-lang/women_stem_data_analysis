@@ -41,14 +41,14 @@ The dataset includes the following columns:
 ### 1️⃣ Female Enrollment in STEM Fields
 This chart shows female enrollment percentages in all STEM fields across all countries, aggregated in 5-year intervals.
 
-![Female Enrollment]![alt text](../plots/01_female_enrollment.png) https://github.com/mozhdamohammadi58-lang/women_stem_data_analysis/blob/main/01_female_enrollment.png
+![Female Enrollment] https://github.com/mozhdamohammadi58-lang/women_stem_data_analysis/blob/main/01_female_enrollment.png
 
 ---
 
 ### 2️⃣ Female Graduation Rate in STEM Fields
 This chart shows female graduation percentages in all STEM fields across all countries, aggregated in 5-year intervals.
 
-![Female Graduation]![alt text](../plots/02_graduation_stem.png)
+![Female Graduation]https://github.com/mozhdamohammadi58-lang/women_stem_data_analysis/blob/main/02_graduation_stem.png
 
 ---
 
