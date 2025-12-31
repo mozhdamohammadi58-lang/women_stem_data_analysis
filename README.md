@@ -62,7 +62,7 @@ This chart compares average female enrollment vs. graduation percentages for eac
 ### 4️⃣ Gender Gap Index by Country
 This chart visualizes the gender gap index for each country, highlighting areas of inequality in STEM participation.
 
-![Gender Gap Index]![alt text](../plots/04_gender_gap_index.png)
+![Gender Gap Index]https://github.com/mozhdamohammadi58-lang/women_stem_data_analysis/blob/main/03_enrollment_vs_graduation.png
 
 ---
 
